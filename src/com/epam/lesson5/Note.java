@@ -34,7 +34,7 @@ public class Note implements Comparator<Note>{
         if (o == this) {
             return true;
         }
-        if (!(o instanceof Note)) {
+        if (!(o instanceof Note)) {// мы изучали то, что instanceof в конструкторе является ошибкой
             return false;
         }
 
