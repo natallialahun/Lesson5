@@ -7,6 +7,7 @@ import java.util.*;
  * Created by Natallia_Lahun on 02/21/2017.
  */
 
+// решения задачи про Календарь следовало оформить отдельным классом, все-таки Java - ООР язык
 public class CalendarTest {
 
     public static void main(String[] args)
